@@ -21,10 +21,10 @@ logging.basicConfig(
 TOKEN = os.getenv("TOKEN")
 
 # آیدی عددی خودت را از @userinfobot بگیر و اینجا بگذار
-ADMIN_ID = 123456789
+ADMIN_ID = 5748185793
 
 # آیدی کانال سیگنال
-CHANNEL_ID = "@MarinaFXSignal"
+CHANNEL_ID = https://t.me/+SRXZPAIZm3g4YTRk
 
 LOGO_PATH = "logo.png"
 
